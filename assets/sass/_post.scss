@@ -87,6 +87,9 @@
     margin: 0;
     padding-top: $spacing-full - 15;
     padding-bottom: $spacing-full - 15;
+
+    text-align: justify;
+    text-justify: inter-character;
   }
 
   ul.task-list {
